@@ -1,0 +1,49 @@
+body{
+    background-color: gainsboro;
+}
+
+.navbar{
+    background: linear-gradient(silver, white, white, silver);
+    color: black;
+    border: 3px solid silver;
+}
+
+.navbar-toggler{
+    border: 3px solid silver;
+}
+
+
+.myPic{
+    background-image: url(/img/firstPic.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;  
+}
+
+.btn{
+    border: 2px solid white;
+    color: white;
+}
+
+.btn:hover{
+    color: white;
+}
+
+.card-img-top{
+    border-radius: 50%;
+    background-color: gainsboro;
+}
+
+.myDescription{
+    width: 100%;
+    margin: 0 3rem;
+    background-color: white;
+}
+
+.nav-link{
+    color: rgb(4, 191, 248);
+}
+
+.progress{
+    margin: 2rem 2rem;
+}
